@@ -1,4 +1,4 @@
-# laravel-cronless-scheduler
+# Laravel cronless scheduler
 Running Laravel's scheduler without setting up CRON jobs.
 
 
